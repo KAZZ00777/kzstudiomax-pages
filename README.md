@@ -1,6 +1,6 @@
 # KZ Studio – Official Web Pages
 
-This repository hosts the official web pages for mobile applications developed by **KZ Studio Max**.
+This repository hosts the official web pages for mobile applications developed by **KZ Studio**.
 
 It is primarily used to provide:
 
